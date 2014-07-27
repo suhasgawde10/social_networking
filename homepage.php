@@ -4,7 +4,11 @@
 <body>
 	<div id="main">
 		<div id="top">
+			<div id="left_logo">
+				
+			</div>
 		</div>
+		
 	</div>
 </body>
 </html>
